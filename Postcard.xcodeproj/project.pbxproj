@@ -13,6 +13,8 @@
 		B6640E3F1A02357F0091D338 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6640E3E1A02357F0091D338 /* Images.xcassets */; };
 		B6640E421A02357F0091D338 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6640E401A02357F0091D338 /* LaunchScreen.xib */; };
 		B6640E4E1A02357F0091D338 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6640E4D1A02357F0091D338 /* PostcardTests.swift */; };
+		B6640E581A02481D0091D338 /* 061b-barcelona-gaudi-sagrada-familia-0800716a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B6640E571A02481D0091D338 /* 061b-barcelona-gaudi-sagrada-familia-0800716a.jpg */; };
+		B6640E5A1A025C1E0091D338 /* einstein.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B6640E591A025C1E0091D338 /* einstein.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		B6640E471A02357F0091D338 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6640E4C1A02357F0091D338 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B6640E4D1A02357F0091D338 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		B6640E571A02481D0091D338 /* 061b-barcelona-gaudi-sagrada-familia-0800716a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "061b-barcelona-gaudi-sagrada-familia-0800716a.jpg"; sourceTree = "<group>"; };
+		B6640E591A025C1E0091D338 /* einstein.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einstein.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		B6640E351A02357F0091D338 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B6640E591A025C1E0091D338 /* einstein.jpeg */,
+				B6640E571A02481D0091D338 /* 061b-barcelona-gaudi-sagrada-familia-0800716a.jpg */,
 				B6640E361A02357F0091D338 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6640E581A02481D0091D338 /* 061b-barcelona-gaudi-sagrada-familia-0800716a.jpg in Resources */,
 				B6640E3D1A02357F0091D338 /* Main.storyboard in Resources */,
 				B6640E421A02357F0091D338 /* LaunchScreen.xib in Resources */,
 				B6640E3F1A02357F0091D338 /* Images.xcassets in Resources */,
+				B6640E5A1A025C1E0091D338 /* einstein.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
