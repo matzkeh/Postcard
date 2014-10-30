@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         
         //mailButton.backgroundColor = UIColor.redColor()
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
+        // new comment
     }
 
 }
